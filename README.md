@@ -1,1 +1,2 @@
-# Ai-assitant-new
+# ova-ai-assistant
+AI assistant 
